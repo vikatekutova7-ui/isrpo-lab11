@@ -292,9 +292,10 @@ button:hover {
     }
     .header-left,
     .header-right {
-    display: none;
-    }
     gap: 8px;
+    }
+
+    
     .header-center {
         margin: 0 8px;
     }
